@@ -47,4 +47,4 @@ There is an FAQ document that will be updated as things progress.
 If you have templates for other specialties your schools are using with EPIC, or other questions feel free to tweet me at @ShreyaLouis or e-mail at sxl1308@case.edu. 
 
 
-[![follow](https://img.shields.io/twitter/follow/ShreyaLouis?style=social)](https://img.shields.io/twitter/follow/ShreyaLouis?style=social)
+[![follow](https://img.shields.io/twitter/follow/ShreyaLouis?style=social)](https://twitter.com/intent/follow?screen_name=ShreyaLouis)
