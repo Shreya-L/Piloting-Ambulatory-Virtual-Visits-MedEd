@@ -22,7 +22,7 @@ Currently our workflow depends on EPIC and phone or video app access. We use the
 
 ## Setup #2: Student and Staff See Patient Together
 
-# Questions and Contributions
+### Questions and Contributions
 We have added troubleshooting and walkthroughs with more details for Facetime, Whatsapp for Business with Google Voice, and general call merging tips/tricks in the folder "Technology Set Up"
 
 If you have templates for other specialties your schools are using with EPIC, or other questions feel free to tweet me at @ShreyaLouis or e-mail at sxl1308@case.edu. 
