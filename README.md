@@ -5,7 +5,7 @@ This GitHub repo is meant to serve as a source of information and examples of th
 
 Since the U.S. Department of Health & Human Services and the Office of Civil Rights have declared a COVID-19 "Notification of Enforcement Discretion for Telehalth Remote Communications" seen [here](https://www.hhs.gov/hipaa/for-professionals/special-topics/emergency-preparedness/notification-enforcement-discretion-telehealth/index.html), HIPAA rules have been relaxed to allow the use of audio and video communication technologies, so long as they are not public facing (e.g. live streams are not allowed, or mediums that store videos for public viewings). 
 
-While inpatient medical student rotations will be challenging virtually given the stress on health care workers at this time, the challenges of calling into team based learning that will vary based on real-time admissions, we decided an outpatient virtual visit pilot would have the ability to be more structured with scheduled visits with attendings who are already performing most of their visits virtually at this time anyways. The focuses of our workflow are ensuring student and patient protection of private information (cellphone numbers etc), education, and usefulness to the health care team. 
+While inpatient medical student rotations will be challenging virtually given the stress on health care workers at this time, the challenges of navigating real-time admissions and hour-to-hour changes, we decided an outpatient virtual visit pilot would have the ability to be more structured with scheduled visits with attendings who are already performing most of their visits virtually at this time anyways. The focuses of our workflow are ensuring student and patient protection of private information (cellphone numbers etc), education, and usefulness to the health care team. 
 
 Currently our workflow depends on EPIC and phone or video app access. We use the following mediums: 
 * EPIC
@@ -15,6 +15,8 @@ Currently our workflow depends on EPIC and phone or video app access. We use the
 * Regular phone calling per patient's preference (if they do not desire a video encounter)
 
 ## Technology Set-Up for Privacy Protection
+Since most students do not have access to hospital/instituion phones and will have to use their own devices, masking phone numbers will be of importance when participating in virtual visits. In a simple phone call from student to patient, a simple `*67`placed before the patients number will suffice in masking the students number. Additionally if an attending physician calls a patient and adds a student merging the calls, the students number is automatically hidden as well. 
+This however becomes more complicated when a patient wants to Facetime or use WhatsApp video. For this reason we have created step-by-step walk throughs for how to setup Facetime, WhatsApp, and Phonecalls to mask student numbers in the folder "Technology Set Up." 
 
 ## Acquiring Patient Approval and Preferences for Televisit
 
@@ -22,8 +24,6 @@ Currently our workflow depends on EPIC and phone or video app access. We use the
 
 ## Setup #2: Student and Staff See Patient Together
 
-### Questions and Contributions
-We have added troubleshooting and walkthroughs with more details for Facetime, Whatsapp for Business with Google Voice, and general call merging tips/tricks in the folder "Technology Set Up"
-
+*Questions and Contributions*
 If you have templates for other specialties your schools are using with EPIC, or other questions feel free to tweet me at @ShreyaLouis or e-mail at sxl1308@case.edu. 
 
