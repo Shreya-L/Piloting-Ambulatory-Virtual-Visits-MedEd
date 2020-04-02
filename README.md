@@ -1,7 +1,7 @@
 <img align="left" src="https://img.shields.io/github/downloads/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/total?style=for-the-badge">&nbsp;
 
 # Piloting Ambulatory Virtual Patient Visits During the Coronavirus Pandemic at Cleveland Clinic Lerner College of Medicine 
-                Shreya Louis, J. Harry Isaacson M.D., Neil Mehta M.D. 
+Shreya Louis, J. Harry Isaacson M.D., Neil Mehta M.D. 
 
 This GitHub repo is meant to serve as a source of information and examples of the ongoing Cleveland Clinic Lerner College of Medicine (CCLCM) virtual outpatient rotation pilot. We have been asked by a number of medical students at other institutions to share our note templates, workflow, and troubleshooting of tehcnological issues so that other institutions can also help jump start their virtual outpatient rotations and education. 
 
