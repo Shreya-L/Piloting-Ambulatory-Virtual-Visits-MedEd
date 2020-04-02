@@ -21,6 +21,20 @@ This however becomes more complicated when a patient wants to Facetime or use Wh
 ## Acquiring Patient Approval and Preferences for Televisit
 Patient privacy and safety is of the utmost importance. All patients in our pilot were asked before hand by schedulers or by the attendings themselves if they would be okay with a medical student interviewing them (similar to how they ask beforehand for non-virtual visits). All the patient's in this study gave their approval and their preference for phone (audio only) or video (FaceTime or Whatsapp) and this was recorded in the note template (required for telemedicine notes). 
 
+## Note Template for Virtual Encounter
+Compared to typical in person encounters there are a couple of requirements for virtual encounter notes listed below for billing and ethical requirements: 
+* Must state encounter type phone, video etc
+* Statement such as "Patient agreed to this encounter being held via ___ Yes/No
+* Documentation of all the people present in the encounter (e.g. any spouses, family members, as well as the student and staff physician)
+* Patient location during virtual visit (e.g. home, work etc)
+* Chief complaint, active concers, HPI, Review of Systems as one would normally have
+* Relevant labs/results
+* Assessment/Plan
+* Time of virtual visit needs to be recorded
+* signature of student and staff physician attestation
+
+Notice there is no physical exam or vitals because its a virtual visit. We have included a sample template in the Templates folder, the special fields are only compatible with EPIC at this time but can be changed per each institution's EMR leaving the main fields. 
+
 ## Setup #1: Student Sees Patient Alone First
 
 
