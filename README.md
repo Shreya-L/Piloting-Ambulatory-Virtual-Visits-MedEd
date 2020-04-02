@@ -27,10 +27,10 @@ Compared to typical in person encounters there are a couple of requirements for 
 * Statement such as "Patient agreed to this encounter being held via ___ Yes/No
 * Documentation of all the people present in the encounter (e.g. any spouses, family members, as well as the student and staff physician)
 * Patient location during virtual visit (e.g. home, work etc)
+* Time the physician spends discussing in a virtual visit needs to be recorded (typically at end of note)
 * Chief complaint, active concers, HPI, Review of Systems as one would normally have
 * Relevant labs/results
 * Assessment/Plan
-* Time of virtual visit needs to be recorded
 * signature of student and staff physician attestation
 
 Notice there is no physical exam or vitals because its a virtual visit. We have included a sample template in the Templates folder including the above information with some added features, the special fields are only compatible with EPIC at this time but can be changed per each institution's EMR. 
