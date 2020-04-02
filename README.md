@@ -33,12 +33,12 @@ Compared to typical in person encounters there are a couple of requirements for 
 * Time of virtual visit needs to be recorded
 * signature of student and staff physician attestation
 
-Notice there is no physical exam or vitals because its a virtual visit. We have included a sample template in the Templates folder, the special fields are only compatible with EPIC at this time but can be changed per each institution's EMR leaving the main fields. 
+Notice there is no physical exam or vitals because its a virtual visit. We have included a sample template in the Templates folder including the above information with some added features, the special fields are only compatible with EPIC at this time but can be changed per each institution's EMR. 
 
-## Setup #1: Student Sees Patient Alone First
+## Visit Scenario #1: Student Sees Patient Alone First
 
 
-## Setup #2: Student and Staff See Patient Together
+## Visit Scenario #2: Student and Staff See Patient Together
 
 *Questions and Contributions*
 If you have templates for other specialties your schools are using with EPIC, or other questions feel free to tweet me at @ShreyaLouis or e-mail at sxl1308@case.edu. 
