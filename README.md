@@ -41,5 +41,6 @@ Notice there is no physical exam or vitals because its a virtual visit. We have 
 ## Visit Scenario #2: Student and Staff See Patient Together
 
 *Questions and Contributions*
+There is an FAQ document that will be updated as things progress. 
 If you have templates for other specialties your schools are using with EPIC, or other questions feel free to tweet me at @ShreyaLouis or e-mail at sxl1308@case.edu. 
 
