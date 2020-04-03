@@ -46,5 +46,4 @@ Notice there is no physical exam or vitals because its a virtual visit. We have 
 There is an FAQ document that will be updated as things progress. 
 If you have templates for other specialties your schools are using with EPIC, or other questions feel free to tweet/message me at @ShreyaLouis or e-mail at louisshreya@gmail.com. 
 
-
 [![follow](https://img.shields.io/twitter/follow/ShreyaLouis?style=social)](https://twitter.com/intent/follow?screen_name=ShreyaLouis)
