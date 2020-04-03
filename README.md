@@ -1,4 +1,4 @@
-<img align="left" src="https://img.shields.io/github/downloads/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/total?style=for-the-badge">&nbsp;
+[![HitCount](http://hits.dwyl.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd.svg)](http://hits.dwyl.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd)
 
 # Piloting Ambulatory Virtual Patient Visits During the Coronavirus Pandemic at Cleveland Clinic Lerner College of Medicine 
 Shreya Louis, J. Harry Isaacson M.D., Neil Mehta M.D. 
