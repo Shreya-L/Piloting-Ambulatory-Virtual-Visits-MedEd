@@ -38,14 +38,14 @@ Compared to typical in person encounters there are a couple of requirements for 
 Notice there is no physical exam or vitals because its a virtual visit. We have included a sample template in the Templates folder including the above information with some added features, the special fields are only compatible with EPIC at this time but can be changed per each institution's EMR. 
 
 ## Visit Scenario #1: Student Sees Patient Alone First
-<img src="temp1" alt="alt text">
+<img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Scenario1_workflow.png">
 
 ## Visit Scenario #2: Student and Staff See Patient Together
 
-<img src="temp2" alt="alt text">
+<img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Scenario2_workflow.png">
 
 
-*Questions and Contributions*
+## Questions and Contributions
 There is an FAQ document that will be updated as things progress. 
 If you have templates for other specialties your schools are using with EPIC, or other questions feel free to tweet/message me at @ShreyaLouis or e-mail at louisshreya@gmail.com. 
 
