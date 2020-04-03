@@ -10,7 +10,7 @@ Since the U.S. Department of Health & Human Services and the Office of Civil Rig
 While inpatient medical student rotations will be challenging virtually given the stress on health care workers at this time, the challenges of navigating real-time admissions and hour-to-hour changes, we decided an outpatient virtual visit pilot would have the ability to be more structured with scheduled visits with attendings who are already performing most of their visits virtually at this time anyways. The focuses of our workflow are ensuring student and patient protection of private information (cellphone numbers etc), education, and usefulness to the health care team. 
 
 Currently our workflow depends on EPIC and phone or video app access. We use the following mediums: 
-* EPIC
+* EPIC - our students have remote EMR access for this which may vary across institutions
 * FaceTime
 * WhatsApp for business
 * Google Voice - you will need a gmail account for this
