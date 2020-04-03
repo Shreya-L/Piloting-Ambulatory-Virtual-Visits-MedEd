@@ -18,10 +18,10 @@ Currently our workflow depends on EPIC and phone or video app access. We use the
 
 ## Technology Set-Up for Privacy Protection
 Since most students do not have access to hospital/instituion phones and will have to use their own devices, masking phone numbers will be of importance when participating in virtual visits. In a phone call from student to patient, a `*67`placed before the patients number will suffice in masking the students number. Additionally, if an attending physician calls a patient and then adds a student in by merging the calls, the student's number is automatically hidden as well. 
-This however becomes more complicated when a patient wants to Facetime or use WhatsApp video. For this reason we have created step-by-step walk throughs for how to setup Facetime, WhatsApp, and Phonecalls to mask student numbers in the folder "Technology Set Up." 
+However, this becomes more complicated when a patient wants to Facetime or use WhatsApp video. For this reason we have created step-by-step walk throughs for how to setup Facetime, WhatsApp, and Phonecalls to mask student numbers in the folder "Technology Set Up." 
 
 ## Acquiring Patient Approval and Preferences for Televisit
-Patient privacy and safety is of the utmost importance. All patients in our pilot were asked before hand by schedulers or by the attendings themselves if they would be okay with a medical student interviewing them (similar to how they ask beforehand for non-virtual visits). All the patient's in this study gave their approval and their preference for phone (audio only) or video (FaceTime or Whatsapp) and this was recorded in the note template (required for telemedicine notes). 
+Patient privacy and safety is of the utmost importance. All patients in our pilot were asked before hand by schedulers or by the attendings themselves if they would be okay with a medical student interviewing them (similar to how they ask beforehand for non-virtual visits). All the patients in this study gave their approval and their preference for phone (audio only) or video (FaceTime or Whatsapp) and this was recorded in the note template (required for telemedicine notes). 
 
 ## Note Template for Virtual Encounter
 Compared to typical in person encounters there are a couple of requirements for virtual encounter notes listed below for billing and ethical requirements: 
