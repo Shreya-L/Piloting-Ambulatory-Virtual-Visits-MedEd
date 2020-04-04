@@ -1,6 +1,10 @@
 ## FaceTime Virtual Visit Privacy Set-Up
 
-If patient does not have iPhone, consider using WhatsApp, Zoom, or regular phone call
+PROs: Unlike WhatsApp, numbers do not need to be saved in order to call patients on FaceTime Audio or Video, Most patients with iPhones have gotten used to using FaceTime to communicate with friends/family during lockdown/quarantine.
+
+CONs: If a patient does not have an iPhone
+
+If patient does not have an iPhone or does not want to use FaceTime, can still consider Google Voice, WhatsApp for business, or Zoom.
 
 
 1. Open **Settings** in iPhone, click on **Names, Phone Numbers, Emai** as seen in the image below
