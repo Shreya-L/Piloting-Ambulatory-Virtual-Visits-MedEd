@@ -13,14 +13,14 @@ The main focus of our workflow is to ensure student and patient protection of pr
 
 Currently our workflow depends on EPIC and phone or video app access. We use the following mediums: 
 * EPIC - our students have remote EMR access for this which may vary across institutions
-* FaceTime
+* [FaceTime](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Facetime.md)
 * WhatsApp for business
 * Google Voice - you will need a gmail account for this
 * Regular phone calling per patient's preference (if they do not desire a video encounter)
 
 ## Technology Set-Up for Privacy Protection
 Since most students do not have access to hospital/instituion phones and will have to use their own devices, masking phone numbers will be of importance when participating in virtual visits. In a phone call from student to patient, a `*67`placed before the patient's number will suffice in masking the student's number. Additionally, if an attending physician calls a patient and then adds a student in by merging the calls, the student's number is automatically hidden as well. 
-However, this becomes more complicated when a patient wants to Facetime or use WhatsApp video. For this reason we have created step-by-step walk throughs for how to setup Facetime, WhatsApp, and phone calls to mask student numbers in the folder [Technology Set Up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Technology-Set-Up). 
+However, this becomes more complicated when a patient wants to Facetime or use WhatsApp video. For this reason we have created step-by-step walk throughs for how to setup [Facetime](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Facetime.md), WhatsApp, and phone calls to mask student numbers in the folder [Technology Set Up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Technology-Set-Up). 
 
 ## Acquiring Patient Approval and Preferences for Televisit
 Patient privacy and safety is of the utmost importance. All patients in our pilot were asked beforehand by schedulers or by the attendings themselves if they would be okay with a medical student interviewing them (similar to how they ask beforehand for non-virtual visits). All the patients in this study gave their approval and their preference for phone (audio only) or video (FaceTime or WhatsApp) and this was recorded in the note template (required for telemedicine notes). 
