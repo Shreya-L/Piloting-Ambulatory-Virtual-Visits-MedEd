@@ -3,7 +3,7 @@
 # Piloting Ambulatory Virtual Patient Visits During the Coronavirus Pandemic at Cleveland Clinic Lerner College of Medicine
 Shreya Louis, J. Harry Isaacson M.D., Neil Mehta M.D. 
 
-This GitHub repo is meant to serve as a source of information and examples of the ongoing Cleveland Clinic Lerner College of Medicine (CCLCM) virtual outpatient rotation pilot. We have been asked by a number of medical students at other institutions to share our note templates, workflow, and troubleshooting of tehcnological issues so that other institutions can also help jump start their virtual outpatient rotations and education. 
+This GitHub repo is meant to serve as a source of information and examples of the ongoing Cleveland Clinic Lerner College of Medicine (CCLCM) virtual outpatient rotation pilot. We have been asked by a number of medical students at other institutions to share our note templates, workflow, and troubleshooting of technological issues so that other institutions can also help jump start their virtual outpatient rotations and education. 
 
 Since the U.S. Department of Health & Human Services and the Office of Civil Rights have declared a COVID-19 "Notification of Enforcement Discretion for Telehealth Remote Communications" see more [here](https://www.hhs.gov/hipaa/for-professionals/special-topics/emergency-preparedness/notification-enforcement-discretion-telehealth/index.html), HIPAA rules have been relaxed to allow the use of audio and video communication technologies, so long as they are not public facing (e.g. live streams are not allowed, or mediums that store videos for public viewings). 
 
@@ -30,12 +30,12 @@ Compared to typical in person encounters there are a couple of requirements for 
 * Documentation of all the people present in the encounter (e.g. any spouses, family members, as well as the student and staff physician)
 * Patient location during virtual visit (e.g. home, work etc)
 * Time the physician spends discussing in a virtual visit needs to be recorded (typically at end of note)
-* Chief complaint, active concers, HPI, Review of Systems as one would normally have
+* Chief complaint, active concers, HPI, Review of Systems
 * Relevant labs/results
 * Assessment/Plan
-* signature of student and staff physician attestation
+* Signature of student and staff physician attestation
 
-Notice there is no physical exam or vitals because its a virtual visit. We have included a sample template in the Templates folder including the above information with some added features, the special fields are only compatible with EPIC at this time but can be changed per each institution's EMR. 
+Notice there is no physical exam section due to the encounter being virtual. We have included a sample template in the [Templates folder](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Templates) that includes the above information with added special fields that are only EPIC-compatible at this time (can be editted to fit each institute's EMR). 
 
 ## Visit Scenario #1: Student Sees Patient Alone First
 <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Scenario1_workflow.png">
@@ -46,7 +46,7 @@ Notice there is no physical exam or vitals because its a virtual visit. We have 
 
 
 ## Questions and Contributions
-There is an FAQ document that will be updated as things progress. 
+There is a [Troubleshooting FAQ](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Troubleshooting-FAQs.md) document that will be updated as issues arise in virtual encounters at our institution as well as in others. 
 If you have templates for other specialties your schools are using with EPIC, or other questions feel free to tweet/message me at @ShreyaLouis or e-mail at louisshreya@gmail.com. 
 
 [![follow](https://img.shields.io/twitter/follow/ShreyaLouis?style=social)](https://twitter.com/intent/follow?screen_name=ShreyaLouis)
