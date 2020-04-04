@@ -35,6 +35,5 @@ If patient does not have an iPhone or does not want to use FaceTime, can still c
 > ![FTstep6](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/FTstep6.png)
 
 8. Note: You can always go back to iPhone **Settings** --> **FaceTime** --> **CALLER ID** to switch your phone number and other accounts back on after patient visits, but this will NOT affect people being able to reach you. \
-In other words, others will still be able to reach you at your phone number because the **Settings** --> **FaceTime** --> **YOU CAN BE REACHED BY FACETIME AT** (seen below) will still show your number, and other e-mail accounts. The purpose of masking your own caller ID is to prevent a situation where patients can have your personal cell-phone number. 
+In other words, others will still be able to reach you at your phone number because the **Settings** --> **FaceTime** --> **YOU CAN BE REACHED BY FACETIME AT** will still show your number, and other e-mail accounts. The purpose of masking your own caller ID is to prevent a situation where patients can have your personal cell-phone number. 
 
-> ![FTstep6](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/FTstep6.png)
