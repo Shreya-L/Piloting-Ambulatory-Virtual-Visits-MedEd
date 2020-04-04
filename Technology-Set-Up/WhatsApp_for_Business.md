@@ -10,7 +10,7 @@ CONs: You have to save patient numbers before hand with their initials. For exam
 2. Select use a different number (you want this account to link with your virtual number)
 > <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/WAstep2.png" width="400">
 
-3. Locate your Google Voice number by logging into Google Voice at voice.google.com with your Gmail account. Click on **Settings** in the upper right corner. This will take you to the screen seen below where your voice number is listed under **Account** (If you have forgotten where to locate your google number click here). Enter this number into WhatsApp as seen in the image below. You will be prompted to confirm the number, select "Yes".
+3. Locate your Google Voice number by logging into Google Voice at voice.google.com with your Gmail account. Click on **Settings** in the upper right corner. This will take you to the screen seen below where your voice number is listed under **Account** (If you you forgot or have not yet set up your Google Voice number click [here](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Google_Voice.md)). Enter this number into WhatsApp as seen in the image below. You will be prompted to confirm the number, select "Yes".
 
 > <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/WAstep3.png">
 > <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/WAstep4.png">
