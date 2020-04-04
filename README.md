@@ -34,12 +34,16 @@ Patient privacy and safety is of the utmost importance. All patients in our pilo
 
 See our Virtual Encounter Note Template compatible with EPIC [here](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Templates)
 
-Compared to typical in person encounters there are a couple of requirements for virtual encounter notes listed below for billing and ethical requirements: 
+Requirements for virtual encounter notes listed below for billing and ethical requirements: 
 * Must state encounter type phone, video etc.
 * Statement such as "Patient agreed to this encounter being held via ___ Yes/No
 * Documentation of all the people present in the encounter (e.g. any spouses, family members, as well as the student and staff physician)
 * Patient location during virtual visit (e.g. home, work etc.)
 * Time the physician spends discussing in a virtual visit needs to be recorded (typically at end of note)
+
+Virtual Physical Exam is limited, but some of the following elements have been implemented in Telemedicine:
+* Phone visits: Is speech coherent, is patient able to speak in full sentences
+* Video visits: Rashes (one patient was diagnosed with leukocytoclastic vasculitis with this), wlaking the patient through maneuvers such as pressing on painful areas, pulling on ears (to check for ear infection related pain), eye movements, observing potential tremors etc.
 
 Typical note components, such as those below, are also included in the template
 * Chief complaint, active concerns, HPI, Review of Systems
@@ -47,8 +51,7 @@ Typical note components, such as those below, are also included in the template
 * Assessment/Plan
 * Signature of student and staff physician attestation
 
-Virtual Physical Exam is limited, but some of the following elements have been implemented in Telemedicine:
-* 
+
 
 
 
