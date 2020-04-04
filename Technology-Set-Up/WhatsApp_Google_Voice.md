@@ -1,4 +1,4 @@
-## Whatsapp For Business Privacy Set-Up Using Google Voice
+## WhatsApp For Business Privacy Set-Up Using Google Voice
 
 1. Download Whatsapp for Business for Android or Iphone
 
