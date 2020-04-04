@@ -7,7 +7,7 @@ CONs: If a patient does not have an iPhone
 If patient does not have an iPhone or does not want to use FaceTime, can still consider Google Voice, WhatsApp for business, or Zoom.
 
 
-1. Open **Settings** in iPhone, click on **Names, Phone Numbers, Emai** as seen in the image below
+1. Open **Settings** in iPhone, click on **Names, Phone Numbers, Email** as seen in the image below
 
 
 > ![FTstep1](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/FTstep1.png)
