@@ -1,5 +1,15 @@
 ## Setting up Google Voice
 
+**PROs:**
+- Can use a masked number of your choosing, along with choosing any area code
+- Can send and receive text messages from a masked number
+- Can be used with WhatsApp for Business to allow for masked video calls one-on-one as well as masked video conference calls
+- Is also compatible with Google Duo for video (not discussed in this pilot)
+
+**CONs:**
+- The most difficult to set up of all of the mediums discussed in this pilot
+
+
 ### 1. Click [here](https://voice.google.com/u/2/signup) to be taken to the Google Voice website. You will need to log into a Gmail account of your choice for this step.  
 
 ### 2. If you see the either of following screens shown in the image below, it means your organization has not set-up your account to be Google Voice compatible. Try a different Gmail account if this happens to you: 
