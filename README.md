@@ -23,7 +23,7 @@ However, this becomes more complicated when a patient wants to Facetime or use W
 For this reason we have created step-by-step walk throughs for how to setup the various technology platforms used in this pilot found in the folder [Technology Set Up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Technology-Set-Up) or by clicking the links below: 
 - [FaceTime Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Facetime.md)
 - [Google Voice Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Google_Voice.md)
-- [WhatsApp for Business Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/WhatsApp_for_Business.md)
+- [WhatsApp Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/WhatsApp_for_Business.md)
 - [Basic Phone Call Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Phone.md)
 
 
@@ -52,16 +52,17 @@ Typical note components, such as those below, are also included in the template
 * Signature of student and staff physician attestation
 
 
-
-
-
 ## General Patient Encounter Workflow
 
-To mimic in-person outpatient rotations, we came up with two "Scenario" types for how a student could participate in clinic - In Scenario 1 a student sees the patient alone first, while in Scenario 2 the preceptor and the student see the patient together for the entirety of the visit. These scenarios are listed below and have PROs and CONs of their own. The type of clinical scenario visit used, will depend on a preceptors schedule. Both students and preceptors should be prepared for the possibilty of needing to switch between visit types if necessary. 
+To mimic in-person outpatient rotations, we came up with two "Scenario" types for how a student could participate in clinic - In Scenario 1 a student sees the patient alone first, while in Scenario 2 the preceptor and the student see the patient together for the entirety of the visit. These scenarios are listed below along with PROs and CONs of each visit type. The type of clinical scenario visit used will depend on a preceptor's schedule. Both students and preceptors should be prepared for the possibilty of needing to switch between visit types if necessary. 
 
-One thing we found that is particularly useful for virtual visits in either workflow, is the use of EPIC's built-in chat. Since the chat is built within EPIC, students and preceptors can discuss patients in a secure fashion. We found this to be very useful in coordinating when preceptors and students are both free to sync back up to discuss patient visits since you can use the chat even when a student or preceptor may be on a virtual visit on their phone. The image below shows a sample screenshot that has been deidentified of any PHI. 
+### Patient Assignment to Students 
+There are two main ways we found to efficiently coordinate which patients a student sees. 
 
-<img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/EPIC%20Chat.png">
+1. E-mail sent to student at least a day before clinic day, telling the student which patients (using their initials) and what time the appointments are, as well as what their preferences are for virtual visits (phone vs video and what medium they would like to use). 
+
+2. Preceptors and schedulers can use EPIC directly to signify which patients a student should see. They can also add a sticky note within EPIC to designate the type of application a patient would prefer. If a preference is unknown, student's may simply call the patient masking their number around the time of the visit and ask the patient what they prefer. 
+
 
 ## Visit Scenario #1: Student Sees Patient Alone First
 <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Scenario1_workflow.png">
@@ -86,6 +87,12 @@ One thing we found that is particularly useful for virtual visits in either work
 **CONs:**
 * Student may not gain as much in this type of a visit because they will not get to present a patient or come up with an assessment and plan
 * Since the preceptor will be in the visit with the student, they are not able to see their own patients while the student would otherwise be seeing their's. 
+
+### Preceptor and Student Communication Between and During Visits
+
+One thing we found that is particularly useful for virtual visits in either workflow, is the use of EPIC's built-in chat. Since the chat is built within EPIC, students and preceptors can discuss patients in a secure fashion. We found this to be very useful in coordinating when preceptors and students are both free to sync back up to discuss patient visits since you can use the chat even when a student or preceptor may be on a virtual visit on their phone. The image below shows a sample screenshot that has been deidentified of any PHI. 
+
+<img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/EPIC%20Chat.png">
 
 ## Questions and Contributions
 There is a [Troubleshooting FAQ](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Troubleshooting-FAQs.md) document that will be updated as issues arise in virtual encounters at our institution as well as in others. 
