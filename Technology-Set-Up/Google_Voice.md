@@ -20,11 +20,11 @@
 
 > <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/GVstep6a.png">
 
-### 7. If you want to set up other applications, such as WhatsApp, using your Google Virtual number, you simply navigate to the messages screen in order to receive any verification codes required. (More details in the WhatsApp tutorial [here](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/WhatsApp_for_Business.md).
+### 7. If you want to set up other applications, such as WhatsApp, using your Google Virtual number, you simply navigate to the messages screen in order to receive any verification codes required. (More details in the WhatsApp tutorial [here](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/WhatsApp_for_Business.md)).
 
 > <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/GVstep6b.png">
 
-### 8. If you ever forget what your Google Voice number is, simply navigate to the Settings Icon and you will see it displayed beneath "Account" as seen below.
+### 8. If you ever forget what your Google Voice number is, simply click on the Settings icon and you will see your Google Number displayed beneath "Account" as seen in the image below.
 
 > <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/GVstep7a.png">
 > <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/GVstep7b.png">
