@@ -35,6 +35,8 @@ REVIEW OF SYSTEMS: \
 
 <ins>**PHYSICAL EXAM**</ins>
 Temperature: ***
+Home Blood Pressure/pulse reading: ***
+Weight on home scale: ***
 Respiratory: Short of breath? Able to speak in complete sentences
 HEENT: Pain with pulling own ear (to check for otitis externa or media), erythema 
 GI: Any pain pressing on own stomache, any bloating?
