@@ -3,11 +3,11 @@
 # Piloting Ambulatory Virtual Patient Visits During the Coronavirus Pandemic at Cleveland Clinic Lerner College of Medicine
 Shreya Louis, Monica Yepes-Rios M.D., J. Harry Isaacson M.D., Neil Mehta M.D. 
 
-This GitHub repo is meant to serve as a source of information and examples of the ongoing Cleveland Clinic Lerner College of Medicine (CCLCM) virtual outpatient rotation pilot. We have been asked by a number of medical students at other institutions to share our note templates, workflow, and troubleshooting of technological issues so that other institutions can also help jump start their virtual outpatient rotations and education. 
+This GitHub repo is meant to serve as a source of information and provide examples from the ongoing Cleveland Clinic Lerner College of Medicine (CCLCM) virtual outpatient rotation pilot. We have been asked by a number of medical students at other institutions to share our note templates, workflow, and troubleshooting of issues so that other institutions can also help jump start their virtual outpatient rotations and education. 
 
 Since the U.S. Department of Health & Human Services Office of Civil Rights have declared a "Notification of Enforcement Discretion for Telehealth Remote Communications During the COVID-19 Nationwide Public Health Emergency" (see more [here](https://www.hhs.gov/hipaa/for-professionals/special-topics/emergency-preparedness/notification-enforcement-discretion-telehealth/index.html)), HIPAA rules have been relaxed to allow the use of audio and video communication technologies as long as they are not public facing (e.g. live streams are not allowed, or mediums that store videos for public viewings). 
 
-Inpatient medical student rotations will be challenging to implement virtually given the stress on health care workers at this time and the added challenges of navigating real-time admissions and hour-to-hour changes. In contrast, outpatient visits provide more structure given that virtual encounters can be scheduled for particular times and most providers have transfered to virtual platforms for outpatient medicine during the COVID-19 pandemic anyways. 
+Inpatient medical student rotations will be challenging to implement virtually given the stress on health care workers at this time and the added challenges of navigating real-time admissions and hour-to-hour changes in what could be needed by various members of the team. In contrast, outpatient visits provide more structure given that virtual encounters can be scheduled for particular times and most providers have transfered to virtual platforms for outpatient medicine during the COVID-19 pandemic anyways. 
 
 The main focus of our workflow is to ensure student and patient protection of private information (cellphone numbers etc), education, and usefulness to the health care team. Currently our workflow depends on EPIC, remote access to EPIC, and phone and video application access.
 
@@ -24,7 +24,7 @@ Click any of the below to skip to that section:
 
 
 ## Technology Set-Up for Privacy Protection
-Since most students do not have access to hospital/instituion phones and will have to use their own devices, masking phone numbers will be of importance when participating in virtual visits. In a phone call from student to patient, a `*67`placed before the patient's number will suffice in masking the student's number. Additionally, if an attending physician calls a patient and then adds a student in by merging the calls, the student's number is automatically hidden as well. 
+Since most students do not have access to hospital/institution phones and will have to use their own devices, masking phone numbers will be of importance when participating in virtual visits. In a phone call from student to patient, a `*67`placed before the patient's number will suffice in masking the student's number. Additionally, if an attending physician calls a patient and then adds a student in by merging the calls, the student's number is automatically hidden as well. 
 However, this becomes more complicated when a patient wants to Facetime or use WhatsApp video. 
 
 For this reason we have created step-by-step walk throughs for how to setup the various technology platforms used in this pilot found in the folder [Technology Set Up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Technology-Set-Up) or by clicking the links below: 
@@ -35,13 +35,13 @@ For this reason we have created step-by-step walk throughs for how to setup the 
 
 
 ## Acquiring Patient Approval and Preferences for Televisit
-Patient privacy and safety is of the utmost importance. All patients in our pilot were asked beforehand by schedulers or by the attendings themselves if they would be okay with a medical student interviewing them (similar to how they ask beforehand for non-virtual visits). All the patients in this study gave their approval and their preference for phone (audio only) or video (FaceTime or WhatsApp) and this was recorded in the note template (required for telemedicine notes). 
+Patient privacy and safety is of the utmost importance. Patient permission regarding a medical student interviewing them was obtained by either appointment schedulers or preceptors. All the patients in this study gave their approval and their preference for phone (audio only) or video (FaceTime or WhatsApp) and this was recorded in the note template (required for telemedicine notes). 
 
 ## Note Template for Virtual Encounter
 
 See our Virtual Encounter Note Template compatible with EPIC [here](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Templates)
 
-Requirements for virtual encounter notes listed below for billing and ethical requirements: 
+For billing and ethical purposes, the typical in-person encounter note requirements have been ammended to include the following:  
 * Must state encounter type phone, video etc.
 * Statement such as "Patient agreed to this encounter being held via ___ Yes/No
 * Documentation of all the people present in the encounter (e.g. any spouses, family members, as well as the student and staff physician)
