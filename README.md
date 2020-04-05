@@ -11,6 +11,18 @@ Inpatient medical student rotations will be challenging to implement virtually g
 
 The main focus of our workflow is to ensure student and patient protection of private information (cellphone numbers etc), education, and usefulness to the health care team. Currently our workflow depends on EPIC, remote access to EPIC, and phone and video application access.
 
+## Workflow Steps
+Click any of the below to skip to that section: 
+1. [Technology Set-Up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#technology-set-up-for-privacy-protection)
+2. [Obtaining Patient Consent for Virtual VIsit](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#acquiring-patient-approval-and-preferences-for-televisit)
+3. [Creating a Note Template For Virtual Encounter](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#note-template-for-virtual-encounter)
+4. [Patient Assignment to Student](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#patient-assignment-to-students)
+5. [Preceptor and Student Communication Between and During Encounters](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#preceptor-and-student-communication-between-and-during-visits)
+6. [Scenario 1: Student Sees Patient Alone](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#visit-scenario-1-student-sees-patient-alone-first)
+7. [Scenario 2: Student and Staff See Patient Together](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#visit-scenario-2-student-and-staff-see-patient-together)
+8. [Questions and Contributions](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#questions-and-contributions)
+
+
 ## Technology Set-Up for Privacy Protection
 Since most students do not have access to hospital/instituion phones and will have to use their own devices, masking phone numbers will be of importance when participating in virtual visits. In a phone call from student to patient, a `*67`placed before the patient's number will suffice in masking the student's number. Additionally, if an attending physician calls a patient and then adds a student in by merging the calls, the student's number is automatically hidden as well. 
 However, this becomes more complicated when a patient wants to Facetime or use WhatsApp video. 
