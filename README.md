@@ -32,10 +32,12 @@ For this reason we have created step-by-step walk throughs for how to setup the 
 Best for audio only: 
 - [Basic Phone Call Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Phone.md)
 - [Google Voice Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Google_Voice.md)
+- [Doximity Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Doximity.md)
 
 Best for Video Calls and Audio: 
 - [FaceTime Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Facetime.md)
 - [WhatsApp Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/WhatsApp_for_Business.md)
+- One-on-one video only for now [Doximity Set-Up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Doximity.md)
 
 
 
