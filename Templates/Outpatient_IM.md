@@ -33,6 +33,14 @@ ALLERGIES: @ALLERGY@
 REVIEW OF SYSTEMS: \
 {:372} 
 
+<ins>**PHYSICAL EXAM**</ins>
+Temperature: ***
+Respiratory: Short of breath? Able to speak in complete sentences
+HEENT: Pain with pulling own ear (to check for otitis externa or media), erythema 
+GI: Any pain pressing on own stomache, any bloating?
+Musculoskeletal: Any difficulty moving certain muscles/joints?
+Neuro: Eye movements, Any tremors present
+
 
 <ins>**LABS/RESULTS**</ins>
 
