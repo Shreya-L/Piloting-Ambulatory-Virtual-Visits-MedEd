@@ -22,19 +22,18 @@
 > <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep5.png" >
 > <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep6.png">
 
-If you are seeing the following image in the iPhone or Android Doximity App, your account was not verified correctly. 
-> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Dox.png" >
-
-Sometimes the e-mail verification takes some time to send (up to 15 minutes, so if you don't see it immediately give it some more time. 
-
-## 5. After you have 
+If you are seeing the following image in the iPhone or Android Doximity App, your account was not verified correctly. Sometimes the e-mail verification takes some time to send (up to 15 minutes, so if you don't see it immediately give it some more time.  
+> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxerror.png" width="400">
 
 
-> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep7.png">
-> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep8.png">
-> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep9.png">
-> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep10.png">
-> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep11.png">
-> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep12.png">
-> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep13.png">
+## 5. In the phone application version of Doximity, you will first be prompted with the following screen after logging in to link your number. Here you provide your *real* number but this is not what will be shown to patients. The App will then prompt you to place an automated call to finish linking the phone (second image below).
+> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep8.png" width="400">
+> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep9.png" width="400">
+
+## 6. On your home screen seen below, click on the settings icon to open up 
+
+> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep10.png" width="400">
+> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep11.png" width="400">
+> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep12.png" width="400">
+> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep13.png" width="400">
 
