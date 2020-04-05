@@ -23,7 +23,7 @@ However, this becomes more complicated when a patient wants to Facetime or use W
 For this reason we have created step-by-step walk throughs for how to setup the various technology platforms used in this pilot found in the folder [Technology Set Up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Technology-Set-Up) or by clicking the links below: 
 - [FaceTime Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Facetime.md)
 - [Google Voice Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Google_Voice.md)
-- [WhatsApp Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/WhatsApp_for_Business.md)
+- [WhatsApp for Business Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/WhatsApp_for_Business.md)
 - [Basic Phone Call Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Phone.md)
 
 
