@@ -52,7 +52,7 @@ Patient privacy and safety is of the utmost importance. Patient permission regar
 
 ## Note Template for Virtual Encounter
 
-See our Virtual Encounter Note Template compatible with EPIC [here](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Templates)
+See our Virtual Encounter Note Template compatible with EPIC [here](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Templates). This template is just a suggestion, components may be added or deleted per physician preference with the exception of the required virtual encounter components listed below:
 
 For billing and ethical purposes, the typical in-person encounter note requirements have been ammended to include the following:  
 * Must state encounter type phone, video etc.
@@ -108,7 +108,8 @@ One thing we found that is particularly useful for virtual visits in either work
 
 **PROs:**
 * This visit structure is good for when it is difficult for the preceptor and student to take time to meet separately from the patient to discuss the case due to time constraints. 
-* There are less overall steps to this workflow, so it can be easier to implement from a technology standpoint that Scenario 1 since only one conference call has to be made followed by one wrap-up session. 
+* There are less overall steps to this workflow, so it can be easier to implement from a technology standpoint that Scenario 1 since only one conference call has to be made followed by one wrap-up session.
+* Of the two scenario structures, this one is the only one that allows for direct observation of a student's clinical interview skills as the preceptor is present during the illicitation of the HPI. 
 
 **CONs:**
 * Student may not gain as much in this type of a visit because they will not get to present a patient or come up with an assessment and plan
