@@ -64,7 +64,6 @@ One thing we found that is particularly useful for virtual visits in either work
 <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/EPIC%20Chat.png">
 
 
-
 ## Visit Scenario #1: Student Sees Patient Alone First
 <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Scenario1_workflow.png">
 
