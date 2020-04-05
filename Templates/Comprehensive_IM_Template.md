@@ -17,18 +17,22 @@ Active concerns: ***
 
 HPI: ***
 
-PAST MEDICAL HISTORY:  @PMH@
+PAST MEDICAL HISTORY:  *** if not reviewed delete
+@PMH@
 
-PAST SURGICAL HISTORY:  @PSH@
+PAST SURGICAL HISTORY: *** if not reviewed delete
+@PSH@
 
-FAMILY HISTORY:  @FAMHX@
+FAMILY HISTORY:  *** if not reviewed delete
+@FAMHX@
 
-SOCIAL HISTORY:  @SOCH@
+SOCIAL HISTORY: *** if not reviewed delete
+@SOCH@
 
 MEDICATIONS:\
 @CMEDREFRESH@
 
-ALLERGIES: @ALLERGY@
+ALLERGIES: @ALLERGY@ *** if not reviewed delete
 
 REVIEW OF SYSTEMS: \
 {:372} 
@@ -47,6 +51,7 @@ Neuro: Eye movements, Any tremors present \
 <ins>**LABS/RESULTS**</ins>
 
 Relevant labs/results:
+*** Delete labs not needed
 
 @BASICLAB(HBA1C:3)@
 @CHOL@
