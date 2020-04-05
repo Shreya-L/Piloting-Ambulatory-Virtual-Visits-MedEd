@@ -30,10 +30,16 @@ If you are seeing the following image in the iPhone or Android Doximity App, you
 > <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep8.png" width="400">
 > <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep9.png" width="400">
 
-## 6. On your home screen seen below, click on the settings icon to open up 
+## 6. On your home screen seen below, click on the settings icon to open up, this will open the "Dialer Settings" window which is where you can add your real number under "This Device Number" and your masked number under "My Caller IDs" seen in the images below. NOTE: You must put your real phone number under "This Device Number," otherwise calls will not work. 
 
 > <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep10.png" width="400">
-> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep11.png" width="400">
 > <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep12.png" width="400">
+
+
+TESTETEST
+> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep11.png" width="400">
+
+
+
 > <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Doxstep13.png" width="400">
 
