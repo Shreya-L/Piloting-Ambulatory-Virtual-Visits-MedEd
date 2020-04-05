@@ -9,12 +9,7 @@ Since the U.S. Department of Health & Human Services Office of Civil Rights have
 
 Inpatient medical student rotations will be challenging to implement virtually given the stress on health care workers at this time and the added challenges of navigating real-time admissions and hour-to-hour changes. In contrast, outpatient visits provide more structure given that virtual encounters can be scheduled for particular times and most providers have transfered to virtual platforms for outpatient medicine during the COVID-19 pandemic anyways. 
 
-The main focus of our workflow is to ensure student and patient protection of private information (cellphone numbers etc), education, and usefulness to the health care team. 
-
-Currently our workflow depends on EPIC and phone or video app access. We use the following mediums: 
-* EPIC - our students have remote EMR access for this which may vary across institutions
-* Regular phone calling per patient's preference (if they do not desire a video encounter)
-* Video platforms tried in this pilot: FaceTime, Google Voice, WhatsApp for Business depending on which platforms patients preferred and had access to. 
+The main focus of our workflow is to ensure student and patient protection of private information (cellphone numbers etc), education, and usefulness to the health care team. Currently our workflow depends on EPIC, remote access to EPIC, and phone and video application access.
 
 ## Technology Set-Up for Privacy Protection
 Since most students do not have access to hospital/instituion phones and will have to use their own devices, masking phone numbers will be of importance when participating in virtual visits. In a phone call from student to patient, a `*67`placed before the patient's number will suffice in masking the student's number. Additionally, if an attending physician calls a patient and then adds a student in by merging the calls, the student's number is automatically hidden as well. 
@@ -40,28 +35,34 @@ Requirements for virtual encounter notes listed below for billing and ethical re
 * Documentation of all the people present in the encounter (e.g. any spouses, family members, as well as the student and staff physician)
 * Patient location during virtual visit (e.g. home, work etc.)
 * Time the physician spends discussing in a virtual visit needs to be recorded (typically at end of note)
+* Typical note components: Chief complaint, HPI, Review of Systems, Relevant labs/results, Impression and Plan, signature of student with preceptor attestation.
 
 Virtual Physical Exam is limited, but some of the following elements have been implemented in Telemedicine:
 * Phone visits: Is speech coherent, is patient able to speak in full sentences
 * Video visits: Rashes (one patient was diagnosed with leukocytoclastic vasculitis with this), wlaking the patient through maneuvers such as pressing on painful areas, pulling on ears (to check for ear infection related pain), eye movements, observing potential tremors etc.
 
-Typical note components, such as those below, are also included in the template
-* Chief complaint, active concerns, HPI, Review of Systems
-* Relevant labs/results
-* Assessment/Plan
-* Signature of student and staff physician attestation
-
 
 ## General Patient Encounter Workflow
 
-To mimic in-person outpatient rotations, we came up with two "Scenario" types for how a student could participate in clinic - In Scenario 1 a student sees the patient alone first, while in Scenario 2 the preceptor and the student see the patient together for the entirety of the visit. These scenarios are listed below along with PROs and CONs of each visit type. The type of clinical scenario visit used will depend on a preceptor's schedule. Both students and preceptors should be prepared for the possibilty of needing to switch between visit types if necessary. 
+To mimic in-person outpatient rotations, we came up with two "Scenario" types for how a student could participate in clinic explained in more detail in the sections to follow along with the major PROs and CONs of each Scenario. The type of visit scenario used, will ultimately depend on a preceptor's schedule. Both students and preceptors should be prepared for the possibilty of needing to switch between scenario visit types if necessary. 
 
 ### Patient Assignment to Students 
-There are two main ways we found to efficiently coordinate which patients a student sees. 
+There are a couple ways we found to efficiently coordinate which patients a student sees. 
 
-1. E-mail sent to student at least a day before clinic day, telling the student which patients (using their initials) and what time the appointments are, as well as what their preferences are for virtual visits (phone vs video and what medium they would like to use). 
+1. Preceptors and schedulers can use EPIC directly to signify which patients a student should see as shown with the black dots in the image below. This is useful because students can plan visits based on the length of visit time, as well as based on the gaps between patients. Preceptors and schedulers can also add "Sticky Notes" to EPIC patient charts to signify what medium of virtual visit they prefer (e.g. phone only, or video). If the medium of choice is not available, students can just call their assigned patients close to the visit time and ask them if they prefer a video visit and transition from there.
+> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/EPIC-Pt-Assign.png">
 
-2. Preceptors and schedulers can use EPIC directly to signify which patients a student should see. They can also add a sticky note within EPIC to designate the type of application a patient would prefer. If a preference is unknown, student's may simply call the patient masking their number around the time of the visit and ask the patient what they prefer. 
+2. E-mail sent to student at least a day before clinic day, telling the student which patients (using their initials) and what time the appointments are, as well as what their preferences are for virtual visits (phone vs video and what medium they would like to use). 
+> <img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/EMAIL-Pt-Assign.png">
+
+3. EPIC built-in chat described below: 
+
+### Preceptor and Student Communication Between and During Visits
+
+One thing we found that is particularly useful for virtual visits in either workflow, is the use of EPIC's built-in chat. Since the chat is built within EPIC, students and preceptors can discuss patients in a secure fashion (Can also be used to send patient assignments). We found this to be very useful in coordinating when preceptors and students are both free to sync back up to discuss patient visits since you can use the chat even when a student or preceptor may be on a virtual visit on their phone. The image below shows a sample screenshot that has been deidentified of any PHI. 
+
+<img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/EPIC%20Chat.png">
+
 
 
 ## Visit Scenario #1: Student Sees Patient Alone First
@@ -88,11 +89,6 @@ There are two main ways we found to efficiently coordinate which patients a stud
 * Student may not gain as much in this type of a visit because they will not get to present a patient or come up with an assessment and plan
 * Since the preceptor will be in the visit with the student, they are not able to see their own patients while the student would otherwise be seeing their's. 
 
-### Preceptor and Student Communication Between and During Visits
-
-One thing we found that is particularly useful for virtual visits in either workflow, is the use of EPIC's built-in chat. Since the chat is built within EPIC, students and preceptors can discuss patients in a secure fashion. We found this to be very useful in coordinating when preceptors and students are both free to sync back up to discuss patient visits since you can use the chat even when a student or preceptor may be on a virtual visit on their phone. The image below shows a sample screenshot that has been deidentified of any PHI. 
-
-<img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/EPIC%20Chat.png">
 
 ## Questions and Contributions
 There is a [Troubleshooting FAQ](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Troubleshooting-FAQs.md) document that will be updated as issues arise in virtual encounters at our institution as well as in others. 
