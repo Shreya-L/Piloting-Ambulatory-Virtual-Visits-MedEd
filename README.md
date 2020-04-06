@@ -29,14 +29,13 @@ However, this becomes more complicated when a patient wants to Facetime or use W
 
 For this reason we have created step-by-step walk throughs for how to setup the various technology platforms to mask personal numbers used in this pilot found in the folder [Technology Set Up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Technology-Set-Up) or by clicking the links below: 
 
-Best for audio only: 
-- [Basic Phone Call Masking Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Phone.md)
+**Best for audio only:**
 - [Google Voice Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Google_Voice.md): Allows you to select a number with an area code of your choice to use instead your of personal number.
-
 - [Doximity Dialer Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Doximity.md): Allows you to display institution's number instead of personal number
+- [Basic Phone Call Masking Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Phone.md): Allows masking with use of `*67`
 
 
-Best for Video Calls and Audio: 
+**Best for Video Calls and Audio:** 
 - [FaceTime Masking Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Facetime.md): Allows for masking of caller ID to institution email instead
 - [WhatsApp Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/WhatsApp_for_Business.md)? Allows for masking of personal number using Google Voice number of your choosing
 - [Doximity Dialer Set-Up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Doximity.md): Allows you to display institution's number instead of personal number
