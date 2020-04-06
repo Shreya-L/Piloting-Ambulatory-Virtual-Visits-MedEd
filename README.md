@@ -27,15 +27,15 @@ Click any of the below to skip to that section:
 Since most students do not have access to hospital/institution phones and will have to use their own devices, masking phone numbers will be of importance when participating in virtual visits. In a phone call from student to patient, a `*67`placed before the patient's number will suffice in masking the student's number. Additionally, if an attending physician calls a patient and then adds a student in by merging the calls, the student's number is automatically hidden as well. 
 However, this becomes more complicated when a patient wants to Facetime or use WhatsApp video. 
 
-For this reason we have created step-by-step walk throughs for how to setup the various technology platforms used in this pilot found in the folder [Technology Set Up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Technology-Set-Up) or by clicking the links below: 
+For this reason we have created step-by-step walk throughs for how to setup the various technology platforms to mask personal numbers used in this pilot found in the folder [Technology Set Up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Technology-Set-Up) or by clicking the links below: 
 
 Best for audio only: 
-- [Basic Phone Call Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Phone.md)
+- [Basic Phone Call Masking Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Phone.md)
 - [Google Voice Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Google_Voice.md)
 - [Doximity Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Doximity.md)
 
 Best for Video Calls and Audio: 
-- [FaceTime Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Facetime.md)
+- [FaceTime Masking Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Facetime.md)
 - [WhatsApp Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/WhatsApp_for_Business.md)
 - [Doximity Set-Up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Doximity.md)
 
