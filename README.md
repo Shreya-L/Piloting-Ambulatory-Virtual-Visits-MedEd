@@ -31,13 +31,15 @@ For this reason we have created step-by-step walk throughs for how to setup the 
 
 Best for audio only: 
 - [Basic Phone Call Masking Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Phone.md)
-- [Google Voice Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Google_Voice.md)
-- [Doximity Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Doximity.md)
+- [Google Voice Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Google_Voice.md): Allows you to select a number with an area code of your choice to use instead your of personal number.
+
+- [Doximity Dialer Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Doximity.md): Allows you to display institution's number instead of personal number
+
 
 Best for Video Calls and Audio: 
-- [FaceTime Masking Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Facetime.md)
-- [WhatsApp Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/WhatsApp_for_Business.md)
-- [Doximity Set-Up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Doximity.md)
+- [FaceTime Masking Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Facetime.md): Allows for masking of caller ID to institution email instead
+- [WhatsApp Set-up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/WhatsApp_for_Business.md)? Allows for masking of personal number using Google Voice number of your choosing
+- [Doximity Dialer Set-Up](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Technology-Set-Up/Doximity.md): Allows you to display institution's number instead of personal number
 
 |   |Phone call|Google Voice|WhatsApp|Facetime   |Doximity  |
 |---|---|---|---|---|---|
