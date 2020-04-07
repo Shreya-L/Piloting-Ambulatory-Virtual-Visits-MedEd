@@ -5,7 +5,7 @@ Shreya Louis, Monica Yepes-Rios M.D., J. Harry Isaacson M.D., Neil Mehta M.D.
 
 This GitHub repo is meant to serve as a source of information and provide examples from the ongoing Cleveland Clinic Lerner College of Medicine (CCLCM) virtual outpatient rotation pilot. We have been asked by a number of medical students at other institutions to share our note templates, workflow, and troubleshooting of issues so that other institutions can also help jump start their virtual outpatient rotations and education. 
 
-Since the U.S. Department of Health & Human Services Office of Civil Rights have declared a "Notification of Enforcement Discretion for Telehealth Remote Communications During the COVID-19 Nationwide Public Health Emergency" (see more [here](https://www.hhs.gov/hipaa/for-professionals/special-topics/emergency-preparedness/notification-enforcement-discretion-telehealth/index.html)), HIPAA rules have been relaxed to allow the use of audio and video communication technologies as long as they are not public facing (e.g. live streams are not allowed, or mediums that store videos for public viewings). 
+Since the U.S. Department of Health & Human Services Office of Civil Rights have declared a "Notification of Enforcement Discretion for Telehealth Remote Communications During the COVID-19 Nationwide Public Health Emergency" (see more [here](https://www.hhs.gov/hipaa/for-professionals/special-topics/emergency-preparedness/notification-enforcement-discretion-telehealth/index.html)), HIPAA rules have been relaxed to allow the use of audio and video communication technologies as long as they are not public facing (e.g. live streams are not allowed, or mediums that store videos for public viewings). **This being said, health providers are still expected to take steps to ensure protected health information (PHI) is protected (e.g. turn of smart devices like Amazon Alexa and Google Home in the vicinity of tele health visits and be weary of who is within ear-shot of virtual visits to protect patient information**
 
 Inpatient medical student rotations will be challenging to implement virtually given the stress on health care workers at this time and the added challenges of navigating real-time admissions and hour-to-hour changes in what could be needed by various members of the team. In contrast, outpatient visits provide more structure given that virtual encounters can be scheduled for particular times and most providers have transfered to virtual platforms for outpatient medicine during the COVID-19 pandemic anyways. 
 
@@ -14,7 +14,7 @@ The main focus of our workflow is to ensure student and patient protection of pr
 ## Workflow Steps
 Click any of the below to skip to that section: 
 1. [Technology Set-Up: Masking Your Phone Number](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#technology-set-up-for-privacy-protection)
-2. [Obtaining Patient Consent for Virtual VIsit](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#acquiring-patient-approval-and-preferences-for-televisit)
+2. [Patient Consent for Virtual Visits and Protected Health Information Protection](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#acquiring-patient-approval-and-preferences-for-televisit)
 3. [Meeting Virtual Encounter Note Requirements](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#note-template-for-virtual-encounter)
 4. [Patient Assignment to Student](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#patient-assignment-to-students)
 5. [Preceptor and Student Communication Between and During Encounters](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#preceptor-and-student-communication-between-and-during-visits)
@@ -48,8 +48,11 @@ For this reason we have created step-by-step walk throughs for how to setup the 
 |Conference call video >2 people  |   |   | <p align="center"><img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Checkmark.svg.png">  |  <p align="center"><img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Checkmark.svg.png"> |   |
 |Requires saving contacts beforehand to use   |   |   | <p align="center"><img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Checkmark.svg.png">  |   |   |
 |Ability to mask personal number|<p align="center"><img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Checkmark.svg.png"> |<p align="center"><img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Checkmark.svg.png"> |<p align="center"><img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Checkmark.svg.png"> | <p align="center"><img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Checkmark.svg.png">|<p align="center"><img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Checkmark.svg.png"> |
-## Acquiring Patient Approval and Preferences for Televisit
+
+## Acquiring Patient Consent and Protecting Protected Health Information
 Patient privacy and safety is of the utmost importance. Patient permission regarding a medical student interviewing them was obtained by either appointment schedulers or preceptors. All the patients in this study gave their approval and their preference for phone (audio only) or video (FaceTime or WhatsApp) and this was recorded in the note template (required for telemedicine notes). 
+
+Students and preceptors should be aware of their surroundings at the tiem of virtual encounters. Smart devices such as Amazon Alexa, and Google Home that are within the vicinity of a tele health visit should be disconnected at the time of visit. Health care providers should also be aware of surroundings and determine if a re-location is necessary to carry out virtual visits in the event there is concern a third party may be able to listen in on the patient encounter. 
 
 ## Note Template for Virtual Encounter
 
