@@ -66,7 +66,7 @@ For billing and ethical purposes, the typical in-person encounter note requireme
 * Time the physician spends discussing in a virtual visit needs to be recorded (typically at end of note)
 * Typical note components: Chief complaint, HPI, Review of Systems, Relevant labs/results, Impression and Plan, signature of student with preceptor attestation.
 
-Virtual Physical Exam is limited, but some of the following elements have been implemented in Telemedicine:
+Virtual Physical Exam is limited, but some of the following elements have been implemented in telemedicine:
 * Home Monitoring Data: Home weight on home scale, Home BP readings when applicable, home glucose monitoring, temperature if taken at home.
 * Phone visits: Is speech coherent, is patient able to speak in full sentences
 * Video visits: Rashes (one patient was diagnosed with leukocytoclastic vasculitis with this), walking the patient through maneuvers such as pressing on painful areas, pulling on ears (to check for ear infection related pain), eye movements, observing potential tremors etc.
