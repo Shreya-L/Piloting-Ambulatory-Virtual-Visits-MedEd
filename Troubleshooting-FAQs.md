@@ -16,7 +16,7 @@
 > We found that using EPIC's inbuilt chat button (seen in the image below) was very efficient. Since both the preceptor and the student will likely be charting or reviewing the chart of a patient, it is easy to see when either the preceptor or student has messaged and practical to use as either the student or preceptor may be on audio/video calls on their phones. Additionally, since EPIC's chat is built within, students can even share real-time questions/concerns with PHI since it is all contained within the EMR as opposed to using e-mail or texting. 
 
 
-** 4. What do students do if they have housemates/roomates during the COVID-19 lockdown but are participating in calling patients during virtual visits?**
+**4. What do students do if they have housemates/roomates during the COVID-19 lockdown but are participating in calling patients during virtual visits?**
 
 > For now, it is currently advised to at least locate a room that will be farther away from others while participating in patient encounters. It is also advised to make sure any smart devices such as Google Home, and Amazon Alexa are turned off if they are in the vicinity of where the virtual visit calls will take place. Since these are challenging times, the relaxations of HIPAA include any teleheath for treatment/diagnostic purpose "when used in good faith." 
 
