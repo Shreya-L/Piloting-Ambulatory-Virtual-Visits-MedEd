@@ -53,7 +53,7 @@ For this reason we have created step-by-step walk throughs for how to setup the 
 ## Acquiring Patient Consent and Protecting Protected Health Information
 Patient privacy and safety is of the utmost importance. Patient permission regarding a medical student interviewing them was obtained by either appointment schedulers or preceptors. All the patients in this study gave their approval and their preference for phone (audio only) or video (FaceTime or WhatsApp) and this was recorded in the note template (required for telemedicine notes). 
 
-Students and preceptors should be aware of their surroundings at the tiem of virtual encounters. Smart devices such as Amazon Alexa, and Google Home that are within the vicinity of a tele health visit should be disconnected at the time of visit. Health care providers should also be aware of surroundings and determine if a re-location is necessary to carry out virtual visits in the event there is concern a third party may be able to listen in on the patient encounter. 
+Students and preceptors should be aware of their surroundings at the time of virtual encounters. Smart devices such as Amazon Alexa, and Google Home that are within the vicinity of a tele health visit should be disconnected at the time of visit. Health care providers should also be aware of surroundings and determine if a re-location is necessary to carry out virtual visits in the event there is concern a third party may be able to listen in on the patient encounter. 
 
 ## Note Template for Virtual Encounter
 
