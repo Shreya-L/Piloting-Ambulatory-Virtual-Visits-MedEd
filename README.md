@@ -122,7 +122,7 @@ One thing we found that is particularly useful for virtual visits in either work
 
 ## Comparison to Traditional In-Person Rotation Model
 
-<img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Table%201.png" width="800">
+<img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/1.png" width="800">
 
 ## Questions and Contributions
 There is a [Troubleshooting FAQ](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Troubleshooting-FAQs.md) document that will be updated as issues arise in virtual encounters at our institution as well as in others. 
