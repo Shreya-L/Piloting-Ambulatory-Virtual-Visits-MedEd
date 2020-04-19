@@ -20,7 +20,8 @@ Click any of the below to skip to that section:
 5. [Preceptor and Student Communication Between and During Encounters](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#preceptor-and-student-communication-between-and-during-visits)
 6. [Scenario 1: Student Sees Patient Alone](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#visit-scenario-1-student-sees-patient-alone-first)
 7. [Scenario 2: Student and Staff See Patient Together](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#visit-scenario-2-student-and-staff-see-patient-together)
-8. [Questions and Contributions](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#questions-and-contributions)
+8. [Comparison to Traditional In-Person Rotation Model](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#comparison-to-traditional-in-person-rotation-model)
+9. [Questions and Contributions](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#questions-and-contributions)
 
 
 ## Technology Set-Up for Privacy Protection
@@ -119,6 +120,9 @@ One thing we found that is particularly useful for virtual visits in either work
 * Student may not gain as much in this type of a visit because they will not get to present a patient or come up with an assessment and plan
 * Since the preceptor will be in the visit with the student, they are not able to see their own patients while the student would otherwise be seeing their's. 
 
+## Comparison to Traditional In-Person Rotation Model
+
+<img src="https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Figures/Table%201.png">
 
 ## Questions and Contributions
 There is a [Troubleshooting FAQ](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Troubleshooting-FAQs.md) document that will be updated as issues arise in virtual encounters at our institution as well as in others. 
