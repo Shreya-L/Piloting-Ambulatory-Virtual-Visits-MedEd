@@ -7,8 +7,6 @@ This GitHub repo is meant to serve as a source of information and provide exampl
 
 Since the U.S. Department of Health & Human Services Office of Civil Rights have declared a "Notification of Enforcement Discretion for Telehealth Remote Communications During the COVID-19 Nationwide Public Health Emergency" (see more [here](https://www.hhs.gov/hipaa/for-professionals/special-topics/emergency-preparedness/notification-enforcement-discretion-telehealth/index.html)), HIPAA rules have been relaxed to allow the use of audio and video communication technologies as long as they are not public facing (e.g. live streams are not allowed, or mediums that store videos for public viewings). **This being said, health providers are still expected to take steps to ensure protected health information (PHI) is protected (e.g. turn of smart devices like Amazon Alexa and Google Home in the vicinity of tele health visits and be weary of who is within ear-shot of virtual visits to protect patient information**
 
-Inpatient medical student rotations will be challenging to implement virtually given the stress on health care workers at this time and the added challenges of navigating real-time admissions and hour-to-hour changes in what could be needed by various members of the team. In contrast, outpatient visits provide more structure given that virtual encounters can be scheduled for particular times and most providers have transfered to virtual platforms for outpatient medicine during the COVID-19 pandemic anyways. 
-
 The main focus of our workflow is to ensure student and patient protection of private information (cellphone numbers etc), education, and usefulness to the health care team. Currently our workflow depends on EPIC, remote access to EPIC, and phone and video application access.
 
 ## Workflow Steps
@@ -57,7 +55,7 @@ Students and preceptors should be aware of their surroundings at the time of vir
 
 ## Note Template for Virtual Encounter
 
-See our Virtual Encounter Note Template compatible with EPIC [here](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Templates). This template is just a suggestion, components may be added or deleted per physician preference with the exception of the required virtual encounter components listed below:
+See our Virtual Encounter Note Templates compatible with EPIC [here](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Templates). These templates are suggestions, components may be added or deleted per physician preference with the exception of the required virtual encounter components listed below:
 
 For billing and ethical purposes, the typical in-person encounter note requirements have been ammended to include the following:  
 * Must state encounter type phone, video etc.
@@ -68,10 +66,11 @@ For billing and ethical purposes, the typical in-person encounter note requireme
 * Typical note components: Chief complaint, HPI, Review of Systems, Relevant labs/results, Impression and Plan, signature of student with preceptor attestation.
 
 Virtual Physical Exam is limited, but some of the following elements have been implemented in telemedicine:
+
+**General Physical Exam**
 * Home Monitoring Data: Home weight on home scale, Home BP readings when applicable, home glucose monitoring, temperature if taken at home.
 * Phone visits: Is speech coherent, is patient able to speak in full sentences
 * Video visits: Rashes (one patient was diagnosed with leukocytoclastic vasculitis with this), walking the patient through maneuvers such as pressing on painful areas, pulling on ears (to check for ear infection related pain), eye movements, observing potential tremors etc.
-
 
 ## General Patient Encounter Workflow
 
