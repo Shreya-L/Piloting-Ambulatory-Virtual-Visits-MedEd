@@ -72,6 +72,10 @@ Virtual Physical Exam is limited, but some of the following elements have been i
 * Phone visits: Is speech coherent, is patient able to speak in full sentences
 * Video visits: Rashes (one patient was diagnosed with leukocytoclastic vasculitis with this), walking the patient through maneuvers such as pressing on painful areas, pulling on ears (to check for ear infection related pain), eye movements, observing potential tremors etc.
 
+**Neurology Virtual Physical Exam**
+Link to video example of a neurology virtual exam [here](https://www.youtube.com/watch?v=KNXHIpCYD78)
+Link to neurology EPIC template [here]()
+
 ## General Patient Encounter Workflow
 
 To mimic in-person outpatient rotations, we came up with two "Scenario" types for how a student could participate in clinic explained in more detail in the sections to follow along with the major PROs and CONs of each Scenario. The type of visit scenario used, will ultimately depend on a preceptor's schedule. Both students and preceptors should be prepared for the possibilty of needing to switch between scenario visit types if necessary. 
