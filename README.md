@@ -13,7 +13,7 @@ The main focus of our workflow is to ensure student and patient protection of pr
 Click any of the below to skip to that section: 
 1. [Technology Set-Up: Masking Your Phone Number](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#technology-set-up-for-privacy-protection)
 2. [Patient Consent for Virtual Visits and Protected Health Information Protection](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#acquiring-patient-consent-and-protecting-protected-health-information)
-3. [Meeting Virtual Encounter Note Requirements](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#note-template-for-virtual-encounter)
+3. [Virtual Encounter Note Templates and Physical Exam](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#note-template-for-virtual-encounter)
 4. [Patient Assignment to Student](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#patient-assignment-to-students)
 5. [Preceptor and Student Communication Between and During Encounters](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#preceptor-and-student-communication-between-and-during-visits)
 6. [Scenario 1: Student Sees Patient Alone](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd#visit-scenario-1-student-sees-patient-alone-first)
