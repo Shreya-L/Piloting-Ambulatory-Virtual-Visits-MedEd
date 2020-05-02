@@ -73,7 +73,7 @@ Virtual Physical Exam is limited, but some of the following elements have been i
 
 **Neurology Virtual Physical Exam**
 
-Link to video example of a neurology virtual exam [here](https://www.youtube.com/watch?v=KNXHIpCYD78)\
+Video example of a neurology virtual exam [![](http://img.youtube.com/vi/KNXHIpCYD78/0.jpg)](http://www.youtube.com/watch?v=KNXHIpCYD78 "Virtual Neuro Exam")\
 Link to neurology EPIC template [here](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Templates/neuro_exam.md)
 
 ## General Patient Encounter Workflow
