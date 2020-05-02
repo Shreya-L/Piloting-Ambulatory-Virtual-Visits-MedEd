@@ -55,7 +55,8 @@ Students and preceptors should be aware of their surroundings at the time of vir
 
 ## Note Template for Virtual Encounter
 
-See our Virtual Encounter Note Templates compatible with EPIC [here](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Templates). These templates are suggestions, components may be added or deleted per physician preference with the exception of the required virtual encounter components listed below:
+See our Virtual Encounter Note Templates compatible with EPIC [here](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/tree/master/Templates). \
+These templates are suggestions, components may be added or deleted per physician preference.
 
 For billing and ethical purposes, the typical in-person encounter note requirements have been ammended to include the following:  
 * Must state encounter type phone, video etc.
@@ -65,15 +66,14 @@ For billing and ethical purposes, the typical in-person encounter note requireme
 * Time the physician spends discussing in a virtual visit needs to be recorded (typically at end of note)
 * Typical note components: Chief complaint, HPI, Review of Systems, Relevant labs/results, Impression and Plan, signature of student with preceptor attestation.
 
-Virtual Physical Exam is limited, but some of the following elements have been implemented in telemedicine:
-
-**General Physical Exam**
+Virtual Physical Exam is limited, but some of the following elements have been implemented in telemedicine: \
 * Home Monitoring Data: Home weight on home scale, Home BP readings when applicable, home glucose monitoring, temperature if taken at home.
 * Phone visits: Is speech coherent, is patient able to speak in full sentences
 * Video visits: Rashes (one patient was diagnosed with leukocytoclastic vasculitis with this), walking the patient through maneuvers such as pressing on painful areas, pulling on ears (to check for ear infection related pain), eye movements, observing potential tremors etc.
 
 **Neurology Virtual Physical Exam**
-Link to video example of a neurology virtual exam [here](https://www.youtube.com/watch?v=KNXHIpCYD78)
+
+Link to video example of a neurology virtual exam [here](https://www.youtube.com/watch?v=KNXHIpCYD78)\
 Link to neurology EPIC template [here](https://github.com/Shreya-L/Piloting-Ambulatory-Virtual-Visits-MedEd/blob/master/Templates/neuro_exam.md)
 
 ## General Patient Encounter Workflow
